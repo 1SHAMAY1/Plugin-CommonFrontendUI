@@ -1,7 +1,7 @@
 # Common Frontend UI — Comprehensive User Guide & Developer Manual
 
 > **Plugin Version:** 1.0 (Production)  
-> **Target Unreal Engine:** 5.3+ / 5.8+  
+> **Target Unreal Engine:** 5.8+  
 > **Core Dependencies:** CommonUI, EnhancedInput  
 > **Author:** Shankharaj Datta  
 

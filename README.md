@@ -1,13 +1,13 @@
 # Common Frontend UI for Unreal Engine 5
 
-[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.3%2B%20|%205.8%2B-blue?logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.8%2B-blue?logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Pre-Compiled](https://img.shields.io/badge/Binaries-Win64%20Included-brightgreen)](README.md)
 [![User Guide](https://img.shields.io/badge/Documentation-User%20Guide%20Available-gold)](USER_GUIDE.md)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Author](https://img.shields.io/badge/Author-Shankharaj%20Datta-blue?logo=linkedin)](https://www.linkedin.com/in/shankharaj-datta-45921a28a/)
 [![Dependency](https://img.shields.io/badge/Plugin-CommonUI%20Enabled-orange)](README.md)
 
-**Common Frontend UI** is a modular, production-ready frontend framework for Unreal Engine 5 (UE 5.3+ / 5.8+). Built on Epic's **CommonUI** and **Enhanced Input** systems, it delivers a decoupled, multi-platform UI architecture featuring a unified Settings Registry, interactive Key Remapping, Activatable Widget Stacks, and a dedicated Loading Screen subsystem.
+**Common Frontend UI** is a modular, production-ready frontend framework for Unreal Engine 5 (UE 5.8+). Built on Epic's **CommonUI** and **Enhanced Input** systems, it delivers a decoupled, multi-platform UI architecture featuring a unified Settings Registry, interactive Key Remapping, Activatable Widget Stacks, and a dedicated Loading Screen subsystem.
 
 > [!TIP]
 > **Blueprint Ready**: Pre-compiled Win64 editor binaries (`.dll` + `.modules`) are included. Simply clone or copy `CommonFrontendUI` into your project's `Plugins/` directory.
