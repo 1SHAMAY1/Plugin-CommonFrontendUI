@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CommonFrontendUI",
+	"Description": "Production-grade CommonUI frontend, settings registry, key remapping, and loading screen framework for Unreal Engine 5.",
+	"Category": "UI",
+	"CreatedBy": "SHANKHARAJ DATTA",
+	"CreatedByURL": "https://www.linkedin.com/in/shankharaj-datta-45921a28a/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": true,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CommonFrontendUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"EnhancedInput"
+			]
+		},
+		{
+			"Name": "CommonFrontendUI_LoadingScreen",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		}
+	]
+}

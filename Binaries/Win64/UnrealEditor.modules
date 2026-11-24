@@ -1,0 +1,8 @@
+{
+	"BuildId": "55116800",
+	"Modules": 
+	{
+		"CommonFrontendUI": "UnrealEditor-CommonFrontendUI.dll",
+		"CommonFrontendUI_LoadingScreen": "UnrealEditor-CommonFrontendUI_LoadingScreen.dll"
+	}
+}
